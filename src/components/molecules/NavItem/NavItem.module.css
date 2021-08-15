@@ -1,0 +1,11 @@
+.navItem {
+  list-style: none;
+}
+
+.navLink {
+  color: red;
+}
+
+.navItem:hover > ul {
+  display: block;
+}

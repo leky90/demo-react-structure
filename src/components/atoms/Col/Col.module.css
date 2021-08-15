@@ -1,0 +1,29 @@
+.col {
+  flex: 1;
+}
+
+.col_50 {
+  flex: 0 0 50%;
+}
+
+.col_20 {
+  flex: 0 0 20%;
+}
+
+.col_25 {
+  flex: 0 0 25%;
+  background-color: aqua;
+}
+
+.col_75 {
+  flex: 0 0 75%;
+}
+
+.col_33 {
+  flex: 0 0 33.3333%;
+  background-color: blue;
+}
+
+.col_66 {
+  flex: 0 0 66.6667%;
+}
